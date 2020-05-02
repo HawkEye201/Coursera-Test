@@ -23,8 +23,8 @@ body{
 }
 @media (max-width: 767px){
 	section{
-		width: 97%;
-		margin: 10px;
+		width: 99%;
+		margin: 1%;
 	}
 }
 h1{
